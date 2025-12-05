@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome cPanel - Zone Editor",
+  "Type": "App",
+  "Id": "e97_52Nfb0-e8mgqayK9iA",
+  "Reference": "q_Zqco-eiUm-JgywQHiNaA/e97_52Nfb0-e8mgqayK9iA",
+  "Created": "2025-11-17T05:45:42.8671849Z",
+  "Updated": "2025-11-17T05:45:42.8671849Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

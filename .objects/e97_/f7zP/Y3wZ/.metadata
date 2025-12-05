@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome cPanel - Zone Editor",
+  "Type": "Screen",
+  "Id": "Y3wZ3bUQVECWmckJu50HXQ",
+  "Reference": "q_Zqco-eiUm-JgywQHiNaA/Y3wZ3bUQVECWmckJu50HXQ",
+  "ParentRef": "q_Zqco-eiUm-JgywQHiNaA/f7zP2WAXPEC6n7MVvO2t1g",
+  "Created": "2025-11-17T05:45:42.9789851Z",
+  "Updated": "2025-11-17T05:45:42.9789851Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

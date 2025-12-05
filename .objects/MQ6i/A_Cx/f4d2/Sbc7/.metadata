@@ -1,0 +1,14 @@
+﻿{
+  "Name": "What month were you bor…",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "Sbc7XIYsJkqInT1mfSW1cA",
+  "Reference": "q_Zqco-eiUm-JgywQHiNaA/Sbc7XIYsJkqInT1mfSW1cA",
+  "ParentRef": "q_Zqco-eiUm-JgywQHiNaA/f4d2vvj3B06jTV44PNpjtA",
+  "Created": "2025-09-29T09:37:59.1581573Z",
+  "Updated": "2025-09-29T09:37:59.1581573Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

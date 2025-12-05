@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Find Unicorn Name",
+  "Type": "Screen",
+  "Id": "f4d2vvj3B06jTV44PNpjtA",
+  "Reference": "q_Zqco-eiUm-JgywQHiNaA/f4d2vvj3B06jTV44PNpjtA",
+  "ParentRef": "q_Zqco-eiUm-JgywQHiNaA/A_CxHOcayEiGxpLMPRIGCQ",
+  "Created": "2025-09-29T09:31:01.6298128Z",
+  "Updated": "2025-09-29T09:31:01.6298128Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Find Unicorn Name",
+  "Type": "App",
+  "Id": "MQ6ikDxxZEeofSnl_1zDow",
+  "Reference": "q_Zqco-eiUm-JgywQHiNaA/MQ6ikDxxZEeofSnl_1zDow",
+  "Created": "2025-09-29T09:31:01.5655243Z",
+  "Updated": "2025-09-29T09:31:01.5655243Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
